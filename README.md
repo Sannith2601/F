@@ -9,6 +9,6 @@
 - https://flask.palletsprojects.com/
 
 ## Notebook 
+https://colab.research.google.com/drive/1ZXsvwhdL9YWkvwTr9JDSNjm17yl5efFh?usp=sharing
 
-- https://colab.research.google.com/drive/1CbI6tIPX3F72tyA4d0lQmPeThurk1dg2?usp=sharing
 
